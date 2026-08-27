@@ -1,0 +1,7 @@
+langchain>=1.0.0,<2.0.0
+langchain-community>=0.3.9
+langchain-mistralai>=0.2.1
+langchain-text-splitters>=0.3.2
+langchain-chroma>=0.2.0
+chromadb>=0.5.23
+python-dotenv>=1.0.1

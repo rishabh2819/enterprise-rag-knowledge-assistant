@@ -1,0 +1,27 @@
+{
+  "hr_leave_policy.md": {
+    "department": "HR",
+    "access_level": "all",
+    "doc_type": "policy"
+  },
+  "it_security_policy.md": {
+    "department": "IT",
+    "access_level": "all",
+    "doc_type": "policy"
+  },
+  "product_faq.md": {
+    "department": "Product",
+    "access_level": "public",
+    "doc_type": "faq"
+  },
+  "sales_playbook.md": {
+    "department": "Sales",
+    "access_level": "sales_team",
+    "doc_type": "playbook"
+  },
+  "engineering_onboarding.md": {
+    "department": "Engineering",
+    "access_level": "engineering_team",
+    "doc_type": "guide"
+  }
+}
